@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Rangel\\Documents\\GitHub\\test-repo-for-students\\Homework practicum\\16zad\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2CE3D3D5-0D73-451B-8E73-71DB6BCE239B}|16zad\\16zad.vcxproj|C:\\Users\\Rangel\\Documents\\GitHub\\test-repo-for-students\\Homework practicum\\16zad\\16zad\\16zad.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2CE3D3D5-0D73-451B-8E73-71DB6BCE239B}|16zad\\16zad.vcxproj|solutionrelative:16zad\\16zad.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "16zad.cpp",
+              "DocumentMoniker": "C:\\Users\\Rangel\\Documents\\GitHub\\test-repo-for-students\\Homework practicum\\16zad\\16zad\\16zad.cpp",
+              "RelativeDocumentMoniker": "16zad\\16zad.cpp",
+              "ToolTip": "C:\\Users\\Rangel\\Documents\\GitHub\\test-repo-for-students\\Homework practicum\\16zad\\16zad\\16zad.cpp",
+              "RelativeToolTip": "16zad\\16zad.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-11T22:19:28.909Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

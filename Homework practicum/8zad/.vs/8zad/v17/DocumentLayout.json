@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Rangel\\Documents\\GitHub\\test-repo-for-students\\Homework practicum\\8zad\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4D27EA00-FCD2-4DA0-B33A-A7DD81F5F24D}|8zad\\8zad.vcxproj|C:\\Users\\Rangel\\Documents\\GitHub\\test-repo-for-students\\Homework practicum\\8zad\\8zad\\8zad.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4D27EA00-FCD2-4DA0-B33A-A7DD81F5F24D}|8zad\\8zad.vcxproj|solutionrelative:8zad\\8zad.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "8zad.cpp",
+              "DocumentMoniker": "C:\\Users\\Rangel\\Documents\\GitHub\\test-repo-for-students\\Homework practicum\\8zad\\8zad\\8zad.cpp",
+              "RelativeDocumentMoniker": "8zad\\8zad.cpp",
+              "ToolTip": "C:\\Users\\Rangel\\Documents\\GitHub\\test-repo-for-students\\Homework practicum\\8zad\\8zad\\8zad.cpp",
+              "RelativeToolTip": "8zad\\8zad.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-11T19:04:20.972Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
